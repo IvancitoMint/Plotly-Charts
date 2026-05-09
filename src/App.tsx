@@ -18,7 +18,7 @@ function App() {
       <br/><br/><br/>
       
       <center>
-        <img src="/chris_casa.jpeg" alt="Scatter Graph" style={{ width: '800px', height: '600px', display: chart === '' ? 'block' : 'none'}} />
+        <img src="/thehandofpingu.jpeg" alt="Scatter Graph" style={{ width: '800px', height: '600px', display: chart === '' ? 'block' : 'none'}} />
 
         <iframe style={{ width: '800px', height: '600px', display: chart === 'scatter' ? 'block' : 'none'}} src="/polar_scatter.html" title="Scatter Graph" />
         <iframe style={{ width: '800px', height: '600px', display: chart === 'polar_line' ? 'block' : 'none'}} src="/polar_line.html" title="Polar Line Graph" />
